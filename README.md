@@ -4,7 +4,7 @@
 # FuckTapVerify
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/Xposed-Modules-Repo/me.feimeng.vip/releases)
 
-**破解taptap平台上的付费游戏购买验证**
+**去他妈的TapTap付费游戏购买验证**
 </div>
 
 # 这个模块是做什么的？
