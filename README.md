@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/sama.october.FuckTapVerify/refs/heads/main/icon.svg"  width="250" height="250" />
+<img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/sama.october.FuckTapVerify/refs/heads/main/img/icon.svg"  width="250" height="250" />
 
 # FuckTapVerify
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/Xposed-Modules-Repo/me.feimeng.vip/releases)
