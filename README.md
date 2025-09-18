@@ -38,4 +38,4 @@
 - 如果本模块侵犯了您的合法权益，请在[issue](https://github.com/Xposed-Modules-Repo/sama.october.FuckTapVerify/issues)提供您的邮箱以取得联系。并提供相关证明，若权利侵害属实，我会立即删除本仓库和一切分发渠道。
 
 ## Star
-[![Stargazers over time](https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify.svg?variant=adaptive)](https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify)
+[![Stargazers over time](https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify.svg?background=%23FFFFFF&axis=%23333333&line=%236b63ff)](https://starchart.cc/Xposed-Modules-Repo/sama.october.FuckTapVerify)
